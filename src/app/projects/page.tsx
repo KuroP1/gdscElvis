@@ -3,9 +3,9 @@ import { projects } from "@/misc/data";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "",
+  title: " portfilio website",
   description:
-    "",
+    "This is a  portfilio website",
 };
 
 export default function ProjectsPage() {
